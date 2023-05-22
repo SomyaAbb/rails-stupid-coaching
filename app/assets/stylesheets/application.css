@@ -13,3 +13,48 @@
  *= require_tree .
  *= require_self
  */
+h1 {
+
+}
+
+.case {
+  border-radius: 10px;
+ border: 1px solid rgb(202, 202, 202);
+ padding: 10px;
+ margin: 10px;
+}
+
+.button {
+  color: white;
+  background-color: rgb(136, 169, 207);
+  padding: 10px;
+  border: 0px;
+  border-radius: 10px;
+}
+
+.me {
+  padding: 30px;
+  margin: 10px;
+  border-left: 7px solid rgb(215, 215, 215);
+}
+
+.coach
+{
+  padding: 30px;
+  margin-left: 70px;
+  background-color: rgb(245, 245, 245);
+  border-left: 7px solid rgb(215, 215, 215);
+}
+
+.link{
+text-decoration: none;
+background-color: rgb(148, 148, 148);
+border-radius: 10px;
+padding: 10px;
+color: white;
+margin-left: 70px;
+}
+
+.link:hover{
+  background-color: rgb(0, 0, 0);
+  }
