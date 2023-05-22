@@ -13,9 +13,6 @@
  *= require_tree .
  *= require_self
  */
-h1 {
-
-}
 
 .case {
   border-radius: 10px;
